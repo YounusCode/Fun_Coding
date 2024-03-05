@@ -7,3 +7,4 @@
 5. A prgoram to break down a given dollars input that is converted to cents, and then computes quarters, dimes, nickels, and pennies in Python.
 6. A program that determines which mailboxes were closed in C++.
 7. A program calculates the area of triangle using Heron's formula implemented in C++.
+8. A program calculates the number of balloons needed to lift an object in C++.
