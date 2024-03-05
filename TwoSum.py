@@ -4,6 +4,9 @@ class TwoSum(object):
         nums: List[int]
         target: int
         """
+        # nums is an array of ints
+        # target is an int 
+        # we want the two numbers that add up to target
         for i in range(len(nums)):
             for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
