@@ -8,3 +8,4 @@
 6. A program that determines which mailboxes were closed in C++.
 7. A program calculates the area of triangle using Heron's formula implemented in C++.
 8. A program calculates the number of balloons needed to lift an object in C++.
+9. A program turns a chosen letter from the alphabet(A-Z) to a lowercase or uppercase.
